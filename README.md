@@ -8,7 +8,7 @@
   - [Tests](#Test-Cases)
   - [Questions](#Questions)
   # Description  
-  This is a node application that implements the backed of an E-commerce website
+  This is a node application that implements the backed of an E-commerce website using sequqlize ORM, Express and Node Js
   # Installation  
   please fork the repository and install any dependencies associated with this repostiory
   # Usage
